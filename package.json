@@ -1,12 +1,12 @@
 {
-  "name": "codesandbox-black-theme",
-  "displayName": "CodeSandbox Black",
+  "name": "codesandbox-black-theme-purple-variant",
+  "displayName": "CodeSandbox Black Purple Variant",
   "version": "1.2.5",
-  "publisher": "ziterz",
-  "description": "CodeSandbox Black theme for VSCode.",
+  "publisher": "Yus the Yokai",
+  "description": "CodeSandbox Black Purple Variant theme for VSCode.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ziterz/codesandbox-black-theme.git"
+    "url": "git+https://github.com/YusTheYokai/codesandbox-black-theme-purple-variant.git"
   },
   "categories": [
     "Themes"
@@ -22,16 +22,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "CodeSandbox Black",
+        "label": "CodeSandbox Black Purple Variant",
         "uiTheme": "vs-dark",
         "path": "./themes/codesandbox-black-theme.json"
       }
     ]
   },
-  "author": "Ziady Mubaraq",
+  "contributors": [
+    "Ziady Mubaraq",
+    "Nico Lerchl"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ziterz/codesandbox-black-theme/issues"
+    "url": "https://github.com/YusTheYokai/codesandbox-black-theme-purple-variant/issues"
   },
-  "homepage": "https://github.com/ziterz/codesandbox-black-theme#readme"
+  "homepage": "https://github.com/YusTheYokai/codesandbox-black-theme-purple-variant"
 }

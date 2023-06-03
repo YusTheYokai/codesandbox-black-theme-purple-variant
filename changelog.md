@@ -23,3 +23,7 @@
 ### Version 1.2.5 - 2022-02-08
 
 - Fix issue for active tab with border color
+
+### Version 1.2.5 purple - 2023-06-03
+
+- Make base changes for purple variant
